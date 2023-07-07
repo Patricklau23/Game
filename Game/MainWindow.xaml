@@ -19,7 +19,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="100"/>
         </Grid.RowDefinitions>
-        <Grid x:Name="grid" Background="Black" Grid.Row="0">
+        <Grid x:Name="grid" Background="LightSkyBlue" Grid.Row="0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
